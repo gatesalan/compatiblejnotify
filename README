@@ -1,0 +1,5 @@
+This project is forked from jnotify from sourceforge.
+
+The *.so files of jnotify can't not run on old version of linux for it required hight version of glibc.
+
+This project build *.so file of jnotify to make it able to run on old version of linux.
